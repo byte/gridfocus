@@ -1,0 +1,7 @@
+navigation.strip.php:
+- Modify it to add more URLs if necessary... If you're adding pages, you can do it via:
+
+	<a href="<?php echo get_page_uri('48'); ?>/" title="A page">Page</a>
+
+Where the number 48 represents the page number, in the WordPress database.
+
